@@ -1,0 +1,27 @@
+
+//common
+@forward "../common/color";
+@forward "../common/font-size";
+@forward "../common/breakpoints";
+@forward "../common/common";
+@forward "../common/aos-animation";
+@forward "../common/element";
+@forward "../common/mixin";
+@forward "../common/breadcrumb";
+
+//partial
+@forward "../partial/header";
+@forward "../partial/footer";
+
+// pages
+@forward "../pages/quizplay/quizplay";
+@forward "../pages/login";
+@forward "../pages/home";
+@forward "../pages/bookmark";
+@forward "../pages/404";
+@forward "../pages/instruction";
+@forward "../pages/profile";
+@forward '../pages/invite-friends';
+@forward '../pages/leaderboard';
+@forward '../pages/dashboardplay';
+@forward '../pages/maintainance';
